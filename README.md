@@ -1,6 +1,6 @@
 ![project - Mobile](https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/reactt-light_870x220.png?sfvrsn=a6e1644b_3)
 
-# Voll
+# Project Mobile Desenvolvido por Mateus Pereira
 
 Uma aplicação para consultas usando Native Base e TypeScript no React Native.
 
@@ -35,4 +35,9 @@ O código fonte desta aplicação pode ser acessado em seu repositório no GitHu
 
 ## 📚 Mais informações
 
-Para obter mais informações sobre este projeto, entre em contato com o desenvolvedor.
+Para obter mais informações sobre este projeto, entre em contato com o desenvolvedor
+Mateus Pereira
+Cel: (24)9 99305-8728
+E-mail: mateusp.1996@gmail.com
+LinkedIn: https://www.linkedin.com/in/mateus-pereira-00b705133
+GitHub: https://github.com/mateusmegamix
