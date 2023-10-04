@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "voll-mobile",
-    "slug": "voll-mobile",
+    "name": "project-mobile",
+    "slug": "project-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

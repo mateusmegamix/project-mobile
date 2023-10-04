@@ -113,7 +113,7 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.vollmobile"
+    namespace "com.projectmobile"
     defaultConfig {
         applicationId 'com.project_mobile'
         minSdkVersion rootProject.ext.minSdkVersion

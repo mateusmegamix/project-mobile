@@ -13,7 +13,7 @@ export function Titulo({ children, ...rest }: TituloProps){
         color="gray.500"
         textAlign="center"
         mt={5}
-        {...rest}
+        {...rest} // posso alterar todos os estilos das props
       >
         {children}
       </Text>
