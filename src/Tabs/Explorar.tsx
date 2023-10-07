@@ -5,7 +5,6 @@ import { EntradaTexto } from "../componentes/EntradaTexto";
 import { Titulo } from "../componentes/Titulo";
 import { useState } from "react";
 import { buscarEspecialidadePorEstado } from "../servicos/EspecialistaServico";
-import { NativeStackNavigationProp } from "@react-navigation/native-stack";
 
 interface Especialista {
   nome: string,
